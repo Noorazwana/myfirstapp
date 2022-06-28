@@ -15,7 +15,7 @@ if readme:
 
     st.write ("For more info, please contact:")
 
-    st.write("azwana.rujim@gmail.com>Noorazwana</a>", unsafe_allow_html=True)
+    st.write("azwana.rujim@gmail.com>Noorazwana", unsafe_allow_html=True)
 
 option = st.sidebar.selectbox(
     'Select a mini project',
