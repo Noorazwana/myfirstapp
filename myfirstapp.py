@@ -62,8 +62,3 @@ else:
         time.sleep(0.1)
 
     '...and now we\'re done!'
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
